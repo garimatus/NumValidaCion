@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1462838840 source:c:\users\edgar\desktop\numvalidacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
+1462846181 source:c:\users\gari\desktop\numvalidacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
+1474321284 source:c:\users\gari\desktop\u\numvalidacion\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<ctype.h>
+	<string.h>
+
